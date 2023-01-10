@@ -1,9 +1,9 @@
-# Create React App Example
+# Micro Frontend remote versions control panel example (CRA)
 
-This example demos a basic host application loading remote component.
+This example demos a basic host application loading remote component per version.
 
 - `host` is the host application (cra-based).
-- `remote` standalone application (cra-based) which exposes `Button` component.
+- `remote` standalone application (cra-based) which exposes `Button` component in 2 versions.
 
 # Running Demo
 
